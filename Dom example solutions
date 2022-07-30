@@ -1,0 +1,12 @@
+document.getElementById("container");
+
+
+document.querySelector("#container")
+
+
+let footer = document.querySelector(".footer");
+footer.classList.add("main");
+
+OR
+
+footer.className += "main";
